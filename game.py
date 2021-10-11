@@ -50,4 +50,4 @@ if s1 == "left":
 
 
 else:
-    print("Fell into a hole \ngame over")
+    print("Fall into a hole \ngame over")
